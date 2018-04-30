@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ros_control_boilerplate
+    relative_path: resources/rsptilt.urdf
+  SRDF:
+    relative_path: config/rsptilt.srdf
+  CONFIG:
+    author_name: josh lane
+    author_email: jlane1590@gmail.com
+    generated_timestamp: 1520556588

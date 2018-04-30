@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='ASCII'?>
+<library path="lib/librsptilt_ik_plugin">
+  <class type="rsptilt_kinematics::InverseKinematics"
+      base_class_type="ik_base::IKPlugin">
+    <description>
+      inverse kinematics plugin for the Rotary Stewart Platform.
+    </description>
+  </class>
+</library>

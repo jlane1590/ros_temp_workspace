@@ -1,0 +1,6 @@
+#exclude everything except src directory
+/*
+!.gitignore
+!/*.workspace
+!/src/
+/src/rsptilt_chain_moveit_config/

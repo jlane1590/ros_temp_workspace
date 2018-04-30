@@ -1,0 +1,10 @@
+controller_list:
+  - name: fake_neck_controller
+    joints:
+      - rsp_joint_0
+      - rsp_joint_1
+      - rsp_joint_2
+      - rsp_joint_3
+      - rsp_joint_4
+      - rsp_joint_5
+      - rsp_joint_6
